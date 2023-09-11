@@ -1,0 +1,17 @@
+{
+  "name": "google-2fa",
+  "version": "1.0.0",
+  "description": "2fa authentication",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Kunle",
+  "license": "ISC",
+  "dependencies": {
+    "@types/qrcode": "^1.5.2",
+    "@types/speakeasy": "^2.0.7",
+    "qrcode": "^1.5.3",
+    "speakeasy": "^2.0.0"
+  }
+}
